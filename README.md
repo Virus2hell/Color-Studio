@@ -18,7 +18,7 @@ A sleek Chrome extension that instantly changes any webpage's background color w
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/color-studio.git
+   git clone https://github.com/Virus2hell/Color-Studio.git
    cd color-studio
    ```
 
